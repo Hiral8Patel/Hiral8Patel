@@ -8,8 +8,8 @@
 
 # 🌐 Connect With Me
 
-* LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/hiral-patel-bbb6a6369/)
-* GitHub: [Add your GitHub profile link here](https://github.com/Hiral8Patel/)
+* [LinkedIn](https://www.linkedin.com/in/hiral-patel-bbb6a6369/)
+* [GitHub](https://github.com/Hiral8Patel/)
 * Email: hiralppatel08@gmail.com
 
 ---
