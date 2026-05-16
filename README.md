@@ -63,26 +63,18 @@ Database management and query-based project using SQL.
 
 # 📊 GitHub Stats
 
-```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiral8Patel&show_icons=true)
-```
 
-```md
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiral8Patel&layout=compact)
-```
 
 ---
 
 # 🔥 GitHub Streak
 
-```md
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Hiral8Patel)
-```
 
 ---
 
 # 🚀 Contribution Activity
 
-```md
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiral8Patel)
-```
