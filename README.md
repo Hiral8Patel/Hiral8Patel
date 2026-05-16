@@ -63,9 +63,9 @@ Database management and query-based project using SQL.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiral8Patel&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiral8Patel&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiral8Patel&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiral8Patel&layout=compact&theme=tokyonight)
 
 ---
 
